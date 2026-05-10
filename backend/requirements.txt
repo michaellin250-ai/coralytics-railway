@@ -16,3 +16,8 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 urllib3==2.7.0
 httpx
+python-dotenv
+httpx
+sentence-transformers
+elevenlabs
+twilio
