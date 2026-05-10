@@ -21,3 +21,4 @@ httpx
 sentence-transformers
 elevenlabs
 twilio
+motor
